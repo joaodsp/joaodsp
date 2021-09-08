@@ -11,7 +11,6 @@
   <a href="https://github.com/joaodsp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodsp&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="joaodsp" src=blob:https://web.whatsapp.com/fd85edd6-b94f-49a2-89cf-da7a87337b43
 </div>
   
   
