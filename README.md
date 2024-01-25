@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on AMcom sistemas de informação
+
 - 😄 Pronouns: him/his (ele/dele)
 - 👀 I'm studying programming
-- ✨14 years
+- ✨17 years
 - 🎉 Birthday: 12/04/21
 
 <div>
