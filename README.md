@@ -5,7 +5,7 @@
 - 😄 Pronouns: him/his (ele/dele)
 - 👀 I'm studying programming
 - ✨17 years
-- 🎉 Birthday: 12/04/21
+- 🎉 Birthday: 12/04/24
 
 <div>
   <a href="https://github.com/joaodsp">
